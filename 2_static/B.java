@@ -1,0 +1,5 @@
+class B{
+	static B(){
+	
+	}
+}

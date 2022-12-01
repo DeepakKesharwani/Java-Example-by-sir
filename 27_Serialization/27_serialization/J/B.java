@@ -1,0 +1,3 @@
+transient class B{
+
+}

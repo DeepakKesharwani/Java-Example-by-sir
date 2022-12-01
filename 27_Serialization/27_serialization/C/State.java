@@ -1,0 +1,3 @@
+class State{
+	String stateName;
+}

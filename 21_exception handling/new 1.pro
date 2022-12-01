@@ -1,0 +1,5 @@
+ddd(w,e)
+ddw(r,e)
+dfd(wa,e)
+dfdt(w,e)
+ddr(wg,e)

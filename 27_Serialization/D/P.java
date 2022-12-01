@@ -1,0 +1,4 @@
+class P
+{
+	int y;
+}
